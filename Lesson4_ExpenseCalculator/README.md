@@ -13,8 +13,7 @@ Aly Sanger-Hodgson
 The basics for programming in JavaScript
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alysanger.github.io/lesson4_JavaScript1/
 
 ### Lessons Learned in the Assignment:
 1. How JavaScript differs from other programming languages.
