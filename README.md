@@ -18,5 +18,8 @@ https://alysanger.github.io/lesson4_JavaScript1/
 ### Lessons Learned in the Assignment:
 1. How JavaScript differs from other programming languages.
 2. The ease of use JavaScript provides beginners.
-3. Incorporating responsive elements on a website using JavaScript. 
+3. Incorporating responsive elements on a website using JavaScript.
+
+
+
 
